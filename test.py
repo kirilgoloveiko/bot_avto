@@ -1,1 +1,1 @@
-text = 'text'
+text = 'some text'
