@@ -4,7 +4,7 @@ from telebot import custom_filters
 from telebot.handler_backends import State, StatesGroup
 
 
-bot = telebot.TeleBot("5970038744:AAGaWiijNkU2eJBPSqWNilBtJNS8zY3PQjQ")
+bot = telebot.TeleBot("TOKEN")
 
 user_input_dict = {}
 
